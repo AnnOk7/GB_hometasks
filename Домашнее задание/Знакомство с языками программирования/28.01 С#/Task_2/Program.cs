@@ -3,8 +3,8 @@
 Console.Clear();
 
 Console.WriteLine($"Введите два числа ");
-int Num1 = int.Parse(Console.ReadLine());
-int Num2 = int.Parse(Console.ReadLine());
+int Num1 = int.Parse(Console.ReadLine()!);
+int Num2 = int.Parse(Console.ReadLine()!);
 
 if(Num1>Num2) 
 {
