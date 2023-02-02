@@ -2,15 +2,15 @@
 
 Console.Clear();
 
-Console.WriteLine($"Введите число ");
+Console.WriteLine("Введите число ");
 int N = Convert.ToInt32(Console.ReadLine()!);
 
 int A = 1;
 while (A <= N)
 {
-    if (N % 2 == 0)
+    if (A % 2 == 0)
     {
-        Console.WriteLine(A + ", ");
+        Console.Write(A + ", ");
         A++;
     }
     else
