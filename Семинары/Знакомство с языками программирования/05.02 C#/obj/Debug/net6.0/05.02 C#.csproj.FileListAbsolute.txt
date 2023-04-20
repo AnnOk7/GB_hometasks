@@ -1,0 +1,15 @@
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\bin\Debug\net6.0\05.02 C#.exe
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\bin\Debug\net6.0\05.02 C#.deps.json
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\bin\Debug\net6.0\05.02 C#.runtimeconfig.json
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\bin\Debug\net6.0\05.02 C#.dll
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\bin\Debug\net6.0\05.02 C#.pdb
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\obj\Debug\net6.0\05.02 C#.csproj.AssemblyReference.cache
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\obj\Debug\net6.0\05.02 C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\obj\Debug\net6.0\05.02 C#.AssemblyInfoInputs.cache
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\obj\Debug\net6.0\05.02 C#.AssemblyInfo.cs
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\obj\Debug\net6.0\05.02 C#.csproj.CoreCompileInputs.cache
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\obj\Debug\net6.0\05.02 C#.dll
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\obj\Debug\net6.0\refint\05.02 C#.dll
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\obj\Debug\net6.0\05.02 C#.pdb
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\obj\Debug\net6.0\05.02 C#.genruntimeconfig.cache
+D:\GB\Семинары\Знакомство с языками программирования\05.02 C#\obj\Debug\net6.0\ref\05.02 C#.dll

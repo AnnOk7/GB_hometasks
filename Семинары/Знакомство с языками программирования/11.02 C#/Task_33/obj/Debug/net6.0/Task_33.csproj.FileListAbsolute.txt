@@ -1,0 +1,15 @@
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\bin\Debug\net6.0\Task_33.exe
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\bin\Debug\net6.0\Task_33.deps.json
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\bin\Debug\net6.0\Task_33.runtimeconfig.json
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\bin\Debug\net6.0\Task_33.dll
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\bin\Debug\net6.0\Task_33.pdb
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\obj\Debug\net6.0\Task_33.csproj.AssemblyReference.cache
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\obj\Debug\net6.0\Task_33.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\obj\Debug\net6.0\Task_33.AssemblyInfoInputs.cache
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\obj\Debug\net6.0\Task_33.AssemblyInfo.cs
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\obj\Debug\net6.0\Task_33.csproj.CoreCompileInputs.cache
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\obj\Debug\net6.0\Task_33.dll
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\obj\Debug\net6.0\refint\Task_33.dll
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\obj\Debug\net6.0\Task_33.pdb
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\obj\Debug\net6.0\Task_33.genruntimeconfig.cache
+D:\GB\Семинары\Знакомство с языками программирования\11.02 C#\Task_33\obj\Debug\net6.0\ref\Task_33.dll

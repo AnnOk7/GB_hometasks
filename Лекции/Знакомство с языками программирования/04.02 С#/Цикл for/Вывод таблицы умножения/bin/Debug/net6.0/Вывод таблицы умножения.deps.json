@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Вывод таблицы умножения/1.0.0": {
+        "runtime": {
+          "Вывод таблицы умножения.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Вывод таблицы умножения/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

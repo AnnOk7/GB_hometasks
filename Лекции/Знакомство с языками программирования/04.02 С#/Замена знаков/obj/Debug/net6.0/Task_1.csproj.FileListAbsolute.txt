@@ -1,0 +1,15 @@
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\obj\Debug\net6.0\Task_1.csproj.AssemblyReference.cache
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\obj\Debug\net6.0\Task_1.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfoInputs.cache
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\obj\Debug\net6.0\Task_1.AssemblyInfo.cs
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\obj\Debug\net6.0\Task_1.csproj.CoreCompileInputs.cache
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\bin\Debug\net6.0\Task_1.exe
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\bin\Debug\net6.0\Task_1.deps.json
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\bin\Debug\net6.0\Task_1.runtimeconfig.json
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\bin\Debug\net6.0\Task_1.dll
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\bin\Debug\net6.0\Task_1.pdb
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\obj\Debug\net6.0\Task_1.dll
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\obj\Debug\net6.0\refint\Task_1.dll
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\obj\Debug\net6.0\Task_1.pdb
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\obj\Debug\net6.0\Task_1.genruntimeconfig.cache
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Task_1\obj\Debug\net6.0\ref\Task_1.dll

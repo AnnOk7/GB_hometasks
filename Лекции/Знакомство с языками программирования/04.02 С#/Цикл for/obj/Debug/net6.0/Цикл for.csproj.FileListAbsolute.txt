@@ -1,0 +1,15 @@
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\obj\Debug\net6.0\Цикл for.csproj.AssemblyReference.cache
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\obj\Debug\net6.0\Цикл for.GeneratedMSBuildEditorConfig.editorconfig
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\obj\Debug\net6.0\Цикл for.AssemblyInfoInputs.cache
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\obj\Debug\net6.0\Цикл for.AssemblyInfo.cs
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\obj\Debug\net6.0\Цикл for.csproj.CoreCompileInputs.cache
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\bin\Debug\net6.0\Цикл for.exe
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\bin\Debug\net6.0\Цикл for.deps.json
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\bin\Debug\net6.0\Цикл for.runtimeconfig.json
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\bin\Debug\net6.0\Цикл for.dll
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\bin\Debug\net6.0\Цикл for.pdb
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\obj\Debug\net6.0\Цикл for.dll
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\obj\Debug\net6.0\refint\Цикл for.dll
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\obj\Debug\net6.0\Цикл for.pdb
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\obj\Debug\net6.0\Цикл for.genruntimeconfig.cache
+D:\GB\Лекции\Знакомство с языками программирования\04.02 С#\Цикл for\obj\Debug\net6.0\ref\Цикл for.dll
